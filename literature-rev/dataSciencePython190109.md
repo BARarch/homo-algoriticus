@@ -10,6 +10,7 @@ https://geopy.readthedocs.io/en/stable/
 There is always a way to implement an idea in python.  What questions can you now
 ask?
 
+
 # Simple Web Automation
 #### https://towardsdatascience.com/controlling-the-web-with-python-6fceb22c5f08
 Selinium
@@ -21,6 +22,7 @@ then
 or
 .send_keys()
 Hehe
+
 
 # Learning a Programming Language, Hard or No?
 #### https://towardsdatascience.com/master-python-through-building-real-world-applications-part-1-b040b2b7faad
@@ -42,6 +44,7 @@ from difflib import SequenceMatcher
 Dictionary of english words 
 https://github.com/Dhrumilcse/Interactive-Dictionary-in-Python/blob/master/dictionary.json
 https://www.kaggle.com/borrkk/dictionary
+
 
 # Pyhton and Graph Theory a Must
 #### https://becominghuman.ai/to-all-data-scientists-the-one-graph-algorithm-you-need-to-know-59178dbb1ec2
