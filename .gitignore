@@ -1,7 +1,12 @@
 .credentials
-kijibase/kijibase/__pycache__
-kijibase/kijisearch/__pycache__
-kijibase/kijisearch/migrations/__pycache__
+homoalgoriticus/homoalgoriticus/__pycache__
+homoalgoriticus/homoalgoriticus/settings.py
+homoalgoriticus/main/__pycache__
+homoalgoriticus/main/migrations/__pycache__
+homoalgoriticus/standarddictionary/__pycache__
+homoalgoriticus/standarddictionary/migrations/__pycache__
+homoalgoriticus/econdictionary/__pycache__
+homoalgoriticus/econdictionary/migrations/__pycache__
 __pycache__/
 
 dfTest.py
